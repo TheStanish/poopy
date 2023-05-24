@@ -1,7 +1,7 @@
 {
   "name": "poopy",
   "productName": "poopy",
-  "version": "1.0.0",
+  "version": "1.6.9",
   "description": "My Electron application description",
   "main": ".webpack/main",
   "scripts": {
@@ -23,6 +23,7 @@
     "@electron-forge/maker-rpm": "^6.1.1",
     "@electron-forge/maker-squirrel": "^6.1.1",
     "@electron-forge/maker-zip": "^6.1.1",
+    "@electron-forge/plugin-local-electron": "^6.1.1",
     "@electron-forge/plugin-webpack": "^6.1.1",
     "@vercel/webpack-asset-relocator-loader": "^1.7.3",
     "css-loader": "^6.7.4",
